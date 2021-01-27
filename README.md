@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
+#### My Story
 I'm an Optometrist turned Software Engineer who started my coding adventure during the pandemic. I'm passionate about efficient and creative solutions to problems that create bottlenecks or tedious, repetitive work. I am always up for a challenge, and am an out-of-the-box thinker who thrives in fast-paced environments. 
 
-Some technologies that I enjoy working with include Python, React.JS, and relational as well as non-relational databases. Since graduating from Hackbright Academy, I'm looking to join a team of developers collaborating on a high-impact product and continuing to learn and grow my skills.
+#### Main Focus
+Some technologies that I enjoy working with include Python, React.JS, and relational as well as non-relational databases. Since graduating from Hackbright Academy, I'm looking to join a team of developers collaborating on a high-impact product to grow my skills and contribute my creativity.
 
 <!--
 **jenny-jt/jenny-jt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
